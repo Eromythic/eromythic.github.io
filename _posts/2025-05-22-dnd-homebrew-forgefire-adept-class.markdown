@@ -2,7 +2,7 @@
 layout: post
 title:  "D&D3.5e Homebrew Class: Forgefire Adept"
 date:   2025-05-22 09:03:40 +0200
-categories: ttrpg, dnd35
+categories: ttrpg dnd35
 ---
 In this post I'll talk about a homebrew class I made, and share some files for it.
 
