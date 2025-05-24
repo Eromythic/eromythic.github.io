@@ -11,4 +11,8 @@ layout: null
 		</url>
     {% endunless %}
   {% endfor %}
+  <url>
+	<loc>{{ '/assets/files/forgefire_adept.pdf' | absolute_url }}</loc>
+	<lastmod>2025-05-22</lastmod>
+  </url>
 </urlset>
