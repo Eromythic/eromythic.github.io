@@ -2,6 +2,7 @@
 layout: post
 title:  "First Post"
 date:   2025-05-21 05:44:40 +0200
+final_date:   2025-05-21 05:44:40 +0200
 categories: general
 ---
 I don't know how long or how regularly I'll keep this up, but it's not like I had anything better to do these last couple of hours; so might as well.
