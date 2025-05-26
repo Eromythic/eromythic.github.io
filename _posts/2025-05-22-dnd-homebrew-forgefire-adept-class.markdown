@@ -2,6 +2,7 @@
 layout: post
 title:  "D&D3.5e Homebrew Class: Forgefire Adept"
 date:   2025-05-22 09:03:40 +0200
+final_date: 2025-05-22 11:03:00 +0200
 categories: ttrpg dnd35
 ---
 In this post I'll talk about a homebrew class I made, and share some files for it.
@@ -28,9 +29,12 @@ When I told my DM I was thinking on playing this class and just ignoring all the
 
 At the time I decided to write the new Forgefire Adept class in the [D&D wiki](https://dnd-wiki.org/wiki/Main_Page). The class started as a simple reflavor of the original Dragonfire Adept where I would directly turn the word "Dragon" from things like "+4 competence bonus on Diplomacy checks made to influence a Dragon" to something else like "Fire and Earth elementals and outsiders", but as I made more changes, I saw more opportunities to make it distinct. [The bluez in the dungeon](https://dnd-wiki.org/wiki/User:The_bluez_in_the_dungeon) was incredibly helpful as well, and pushed me to improve the design of the class a great deal.
 
-The final design is still up in the wiki: <https://dnd-wiki.org/wiki/Forgefire_Adept_(3.5e_Class)>.
+The class is available in a number of places:
++ The original wiki article is still there: <https://dnd-wiki.org/wiki/Forgefire_Adept_(3.5e_Class)>.
++ I have also written a version up in [the Homebrewery](https://homebrewery.naturalcrit.com/share/Iy4150pZX-ri).
++ And you can also [download it as a PDF]({% link /assets/files/forgefire_adept.pdf %}) right here.
 
-You can also [download it as a PDF]({% link /assets/files/forgefire_adept.pdf %}) right here (big ups to [Kaiburr Kathhound](https://ko-fi.com/kaiburrkathhound) for the 3.5e-styled template).
+Big ups to [Kaiburr Kathhound](https://ko-fi.com/kaiburrkathhound) for the 3.5e-styled template.
 
 ### PCGen files
 

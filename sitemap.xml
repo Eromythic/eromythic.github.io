@@ -7,12 +7,20 @@ layout: null
 	{% unless post.published == false %}    
 		<url>
 		  <loc>{{ site.url }}{{ post.url }}</loc>
-		  <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+		  <lastmod>{{ post.final_date | date_to_xmlschema }}</lastmod>
 		</url>
     {% endunless %}
   {% endfor %}
   <url>
 	<loc>{{ '/assets/files/forgefire_adept.pdf' | absolute_url }}</loc>
-	<lastmod>2025-05-22</lastmod>
+	<lastmod>2025-05-26</lastmod>
+  </url>
+  <url>
+	<loc>{{ '/assets/files/forgehammer_adept.pdf' | absolute_url }}</loc>
+	<lastmod>2025-05-26</lastmod>
+  </url>
+  <url>
+	<loc>{{ '/assets/files/faerieforge_adept.pdf' | absolute_url }}</loc>
+	<lastmod>2025-05-26</lastmod>
   </url>
 </urlset>
