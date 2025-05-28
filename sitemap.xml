@@ -23,4 +23,8 @@ layout: null
 	<loc>{{ '/assets/files/faerieforge_adept.pdf' | absolute_url }}</loc>
 	<lastmod>2025-05-26</lastmod>
   </url>
+  <url>
+	<loc>{{ '/assets/files/thundersmith_et_al.pdf' | absolute_url }}</loc>
+	<lastmod>2025-05-28</lastmod>
+  </url>
 </urlset>

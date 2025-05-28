@@ -2,7 +2,7 @@
 layout: post
 title:  "D&D3.5e Homebrew: Forgefire Adept Variants"
 date:   2025-05-26 10:03:40 +0200
-final_date: 2025-05-22 10:03:00 +0200
+final_date: 2025-05-26 10:03:00 +0200
 categories: ttrpg dnd35
 ---
 In [the previous post]({% post_url 2025-05-22-dnd-homebrew-forgefire-adept-class %}) I shared a homebrew class I made as a way to adapt Dragonfire Adept to a non-dragon flavor, while keeping the core of the mechanics. As I did that, I worked with a number of ideas that didn't make the cut into the class. It felt a pity to throw away some of those ideas, so they were packaged into either Class Variants or complementing Prestige Classes.
