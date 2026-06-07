@@ -7,7 +7,7 @@ layout: null
 	{% unless post.published == false %}    
 		<url>
 		  <loc>{{ site.url }}{{ post.url }}</loc>
-		  <lastmod>{{ post.final_date | date_to_xmlschema }}</lastmod>
+		  <lastmod>{{ post.final_date | default: post.date | date_to_xmlschema }}</lastmod>
 		</url>
     {% endunless %}
   {% endfor %}
@@ -26,5 +26,41 @@ layout: null
   <url>
 	<loc>{{ '/assets/files/thundersmith_et_al.pdf' | absolute_url }}</loc>
 	<lastmod>2025-05-31</lastmod>
+  </url>
+  <url>
+	<loc>{{ '/assets/files/fairy_oneshot_script.pdf' | absolute_url }}</loc>
+	<lastmod>2025-08-28</lastmod>
+  </url>
+  <url>
+	<loc>{{ '/assets/files/fairy_characters/Dean of Divination.pdf' | absolute_url }}</loc>
+	<lastmod>2026-06-07</lastmod>
+  </url>
+  <url>
+	<loc>{{ '/assets/files/fairy_characters/Dean of Wilderness.pdf' | absolute_url }}</loc>
+	<lastmod>2026-06-07</lastmod>
+  </url>
+  <url>
+	<loc>{{ '/assets/files/fairy_characters/Dean of Defense.pdf' | absolute_url }}</loc>
+	<lastmod>2026-06-07</lastmod>
+  </url>
+  <url>
+	<loc>{{ '/assets/files/fairy_characters/Dean of Offense.pdf' | absolute_url }}</loc>
+	<lastmod>2026-06-07</lastmod>
+  </url>
+  <url>
+	<loc>{{ '/assets/files/fairy_characters/Dean of Conjuration.pdf' | absolute_url }}</loc>
+	<lastmod>2026-06-07</lastmod>
+  </url>
+  <url>
+	<loc>{{ '/assets/files/fairy_characters/Dean of Wellness.pdf' | absolute_url }}</loc>
+	<lastmod>2026-06-07</lastmod>
+  </url>
+  <url>
+	<loc>{{ '/assets/files/fairy_characters/Dean of Lore.pdf' | absolute_url }}</loc>
+	<lastmod>2026-06-07</lastmod>
+  </url>
+  <url>
+	<loc>{{ '/assets/files/fairy_characters/Dean of Artifice.pdf' | absolute_url }}</loc>
+	<lastmod>2026-06-07</lastmod>
   </url>
 </urlset>
