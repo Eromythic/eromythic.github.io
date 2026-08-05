@@ -15,6 +15,6 @@ The fantasy behind the class is Hephaestus in the Disney animated Hercules movie
 
 As soon as I finished making the class I went on to make variants that deal with other energy types that aren't lightning. As such **Flamesmith**, **Coldsmith** and **Lightsmith** were created, dealing with fire, cold and holy/divine respectively.
 
-As always, you can check it out in the D&D wiki ([Thundersmith](https://dnd-wiki.org/wiki/Thundersmith_(3.5e_Prestige_Class)), [Flamesmith](https://dnd-wiki.org/wiki/Flamesmith_(3.5e_Alternate_Class_Feature)), [Coldsmith](https://dnd-wiki.org/wiki/Coldsmith_(3.5e_Alternate_Class_Feature)), [Lightsmith](https://dnd-wiki.org/wiki/Coldsmith_(3.5e_Alternate_Class_Feature))), [the Homebrewery](https://homebrewery.naturalcrit.com/share/JG5eCIvtDTYO) or just [download it as a PDF]({% link /assets/files/thundersmith_et_al.pdf %}).
+As always, you can check it out in the D&D wiki ([Thundersmith](https://dnd-wiki.org/wiki/Thundersmith_(3.5e_Prestige_Class)), [Flamesmith](https://dnd-wiki.org/wiki/Flamesmith_(3.5e_Alternate_Class_Feature)), [Coldsmith](https://dnd-wiki.org/wiki/Coldsmith_(3.5e_Alternate_Class_Feature)), [Lightsmith](https://dnd-wiki.org/wiki/Coldsmith_(3.5e_Alternate_Class_Feature))), [the Homebrewery](https://homebrewery.naturalcrit.com/share/JG5eCIvtDTYO) or just [download it as a PDF]({% link assets/files/thundersmith_et_al.pdf %}).
 
 

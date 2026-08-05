@@ -21,15 +21,15 @@ This is a Monster of the Week adventure meant for:
 
 ### Adventure Materials ###
 
-+ [Adventure Script](/assets/files/piltover_oneshot_script.pdf)
++ [Adventure Script]({% link assets/files/piltover_oneshot_script.pdf %})
 
-+ [Player Playbooks (Modified for the setting)](/assets/files/piltover_characters.zip):
-	+ [Pirate (The Crooked)](/assets/files/piltover_characters/The%20Crooked%20(Pirate).pdf)
-	+ [Archivist (The Expert)](/assets/files/piltover_characters/The%20Expert%20(Archivist).pdf)
-	+ [Ninja (The Initiate)](/assets/files/piltover_characters/The%20Initiate%20(Ninja).pdf)
-	+ [Rookie (The Mundane)](/assets/files/piltover_characters/The%20Mundane%20(Rookie).pdf)
-	+ [SWAT (The Professional)](/assets/files/piltover_characters/The%20Professional%20(SWAT).pdf)
-	+ [Reporter (The Snoop)](/assets/files/piltover_characters/The%20Snoop%20(Reporter).pdf)
++ [Player Playbooks (Modified for the setting)]({% link assets/files/piltover_characters.zip %}):
+	+ [Pirate (The Crooked)]({% link assets/files/piltover_characters/The Crooked (Pirate).pdf %})
+	+ [Archivist (The Expert)]({% link assets/files/piltover_characters/The Expert (Archivist).pdf %})
+	+ [Ninja (The Initiate)]({% link assets/files/piltover_characters/The Initiate (Ninja).pdf %})
+	+ [Rookie (The Mundane)]({% link assets/files/piltover_characters/The Mundane (Rookie).pdf %})
+	+ [SWAT (The Professional)]({% link assets/files/piltover_characters/The Professional (SWAT).pdf %})
+	+ [Reporter (The Snoop)]({% link assets/files/piltover_characters/The Snoop (Reporter).pdf %})
 
 ### Running the Session ###
 

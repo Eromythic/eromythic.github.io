@@ -22,7 +22,7 @@ title: Mouse Musings
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   A place to share things worth sharing — tabletop RPG homebrew, one-shots, and other side-projects.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/musings" # the subpath of your site, e.g. /blog
 url: "https://eromythic.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  eromythic

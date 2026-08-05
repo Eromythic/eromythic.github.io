@@ -32,12 +32,12 @@ At the time I decided to write the new Forgefire Adept class in the [D&D wiki](h
 The class is available in a number of places:
 + The original wiki article is still there: <https://dnd-wiki.org/wiki/Forgefire_Adept_(3.5e_Class)>.
 + I have also written a version up in [the Homebrewery](https://homebrewery.naturalcrit.com/share/Iy4150pZX-ri).
-+ And you can also [download it as a PDF]({% link /assets/files/forgefire_adept.pdf %}) right here.
++ And you can also [download it as a PDF]({% link assets/files/forgefire_adept.pdf %}) right here.
 
 Big ups to [Kaiburr Kathhound](https://ko-fi.com/kaiburrkathhound) for the 3.5e-styled template.
 
 ### PCGen files
 
-I like using PCGen to manage my sheets, and in this instance that meant creating some custom files for my homebrew class, so I did. The support isn't perfect but it mostly got the job done to the extent that I needed it. You may also [download custom PCGen library files]({% link /assets/files/forgefire_lib.zip %}).
+I like using PCGen to manage my sheets, and in this instance that meant creating some custom files for my homebrew class, so I did. The support isn't perfect but it mostly got the job done to the extent that I needed it. You may also [download custom PCGen library files]({% link assets/files/forgefire_lib.zip %}).
 
 

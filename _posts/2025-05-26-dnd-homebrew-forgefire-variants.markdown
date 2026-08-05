@@ -13,13 +13,13 @@ I will share the Class Variants this time, and we'll go over the Prestige Classe
 
 The original class had some hammer-related features, but as a Dragonfire Adept spin-off, it prominently featured breath attacks and breath effects as class progression features. I allowed for more hammer-oriented folks to ditch the breath weapon by providing the Forgehammer invocation as early as level 1. However, the fact of the matter remained that in using that you were forgoing breath effects. At some point during the original ideation I thought about offering hammer effects too but the original class became too cluttered and as such most of that stuff was packaged into its own variant.
 
-Just like before, you can check it out [in the D&D wiki](https://dnd-wiki.org/wiki/Forgehammer_Adept_(3.5e_Alternate_Class_Feature)), [the Homebrewery](https://homebrewery.naturalcrit.com/edit/JxzOMZ5Ztxq7) or just [download it as a PDF]({% link /assets/files/forgehammer_adept.pdf %}).
+Just like before, you can check it out [in the D&D wiki](https://dnd-wiki.org/wiki/Forgehammer_Adept_(3.5e_Alternate_Class_Feature)), [the Homebrewery](https://homebrewery.naturalcrit.com/edit/JxzOMZ5Ztxq7) or just [download it as a PDF]({% link assets/files/forgehammer_adept.pdf %}).
 
 ### Faerieforge Adept: Another Forgefire Adept Variant
 
 Fittingly enough, I made this variant on a whim. I think I woke up one day with this concept in my mind and I just did it for no real reason. If the original Forgefire Adept was rather Cleric-like in some aspects, this one would be its Druid counterpart. It changes the flavor from stone, iron and fire to wood, meadows and faerie fire.
 
-Like before, you can find it in [the D&D wiki](https://dnd-wiki.org/wiki/Faerie_Forge_Adept_(3.5e_Alternate_Class_Feature)), [the Homebrewery](https://homebrewery.naturalcrit.com/share/qEYyrNPxSGpH) or just [download it as a PDF]({% link /assets/files/faerieforge_adept.pdf %}).
+Like before, you can find it in [the D&D wiki](https://dnd-wiki.org/wiki/Faerie_Forge_Adept_(3.5e_Alternate_Class_Feature)), [the Homebrewery](https://homebrewery.naturalcrit.com/share/qEYyrNPxSGpH) or just [download it as a PDF]({% link assets/files/faerieforge_adept.pdf %}).
 
 ### PCGen files
 

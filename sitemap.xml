@@ -6,7 +6,7 @@ layout: null
   {% for post in site.posts %}
 	{% unless post.published == false %}    
 		<url>
-		  <loc>{{ site.url }}{{ post.url }}</loc>
+		  <loc>{{ post.url | absolute_url }}</loc>
 		  <lastmod>{{ post.final_date | default: post.date | date_to_xmlschema }}</lastmod>
 		</url>
     {% endunless %}

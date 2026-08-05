@@ -25,19 +25,19 @@ This is a D&D 5e adventure meant for:
 
 + Blank Character Sheet:
 
-[![Cutesy character sheet preview](/assets/images/mini_fairy_character_sheet.png)](/assets/files/fairy_character_sheet.png)
+[![Cutesy character sheet preview]({% link assets/images/mini_fairy_character_sheet.png %})]({% link assets/files/fairy_character_sheet.png %})
 
-+ [Player Characters](/assets/files/fairy_characters.zip):
-	+ [Dean of Divination](/assets/files/fairy_characters/Dean%20of%20Divination.pdf)
-	+ [Dean of Wilderness](/assets/files/fairy_characters/Dean%20of%20Wilderness.pdf)
-	+ [Dean of Defense](/assets/files/fairy_characters/Dean%20of%20Defense.pdf)
-	+ [Dean of Offense](/assets/files/fairy_characters/Dean%20of%20Offense.pdf)
-	+ [Dean of Conjuration](/assets/files/fairy_characters/Dean%20of%20Conjuration.pdf)
-	+ [Dean of Wellness](/assets/files/fairy_characters/Dean%20of%20Wellness.pdf)
-	+ [Dean of Lore](/assets/files/fairy_characters/Dean%20of%20Lore.pdf)
-	+ [Dean of Artifice](/assets/files/fairy_characters/Dean%20of%20Artifice.pdf)
++ [Player Characters]({% link assets/files/fairy_characters.zip %}):
+	+ [Dean of Divination]({% link assets/files/fairy_characters/Dean of Divination.pdf %})
+	+ [Dean of Wilderness]({% link assets/files/fairy_characters/Dean of Wilderness.pdf %})
+	+ [Dean of Defense]({% link assets/files/fairy_characters/Dean of Defense.pdf %})
+	+ [Dean of Offense]({% link assets/files/fairy_characters/Dean of Offense.pdf %})
+	+ [Dean of Conjuration]({% link assets/files/fairy_characters/Dean of Conjuration.pdf %})
+	+ [Dean of Wellness]({% link assets/files/fairy_characters/Dean of Wellness.pdf %})
+	+ [Dean of Lore]({% link assets/files/fairy_characters/Dean of Lore.pdf %})
+	+ [Dean of Artifice]({% link assets/files/fairy_characters/Dean of Artifice.pdf %})
 
-+ [Adventure Script](/assets/files/fairy_oneshot_script.pdf)
++ [Adventure Script]({% link assets/files/fairy_oneshot_script.pdf %})
 
 ### Running the Session ###
 
